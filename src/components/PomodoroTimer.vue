@@ -96,7 +96,8 @@
     <div class="max-w-md mx-auto px-4">
       <div class="border-t border-gray-200 pt-6">
         <p class="text-gray-600 text-sm mb-2">
-          本项目由 <span class="font-semibold">Jsmond2016</span> 开发
+          本项目由 <span class="font-semibold color-blue"><a href="https://github.com/Jsmond2016" target="_blank"
+              rel="noopener noreferrer">Jsmond2016</a></span> 开发
         </p>
         <div class="flex justify-center items-center space-x-4">
           <a href="https://github.com/Jsmond2016/PomoFocus" target="_blank" rel="noopener noreferrer"
