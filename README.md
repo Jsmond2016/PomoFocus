@@ -5,7 +5,7 @@
 
 PomoFocus 是一个精心设计的番茄工作法计时器网页应用，帮助用户提高专注力和工作效率。该项目实现了番茄工作法的核心功能，采用现代化前端技术栈构建，具有响应式设计和流畅的用户体验。
 
-**在线体验**：https://your-username.github.io/PomoFocus/ <!-- 替换为你的实际部署链接 -->
+**在线体验**：https://jsmond2016.github.io/PomoFocus/
 
 ## 技术栈
 
